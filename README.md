@@ -28,3 +28,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: juniornyamile@gmail.com
 
 <br />
+
+#### STATS
+<a href="https://github.com/seven-smile">
+  
+</a>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=seven-smile&theme=prussian">
+</p>
+<br />
+
+<!-- GitHub Profile Summary -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="seven-smile's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=seven-smile&show_icons=true&count_private=true&theme=prussian&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seven-smile&layout=compact&theme=prussian&count_private=true&langs_count=10" height=192px /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
