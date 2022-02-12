@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 
 
 #### Lets Connect
-<a href="https:https://twitter.com/69_BLACKISH">
-  <img align="left" alt="Nana | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/69_BLACKISH">
+  <img align="left" alt="Jan Prince | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="www.linkedin.com/in/——-">
   <img align="left" alt="Nana's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
