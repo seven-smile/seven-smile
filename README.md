@@ -48,3 +48,18 @@ Here are some ideas to get you started:
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
+
+
+#### Lets Connect
+<a href="https://twitter.com/——-">
+  <img align="left" alt="Jan Prince | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="www.linkedin.com/in/——-">
+  <img align="left" alt="Jan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br />
+<br />
+
+<!-- Activity graph -->
+<img alt="seven-smile's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=seven-smile&theme=prussian&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
