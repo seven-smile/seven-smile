@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 
 #### Lets Connect
-<a href="https://twitter.com/home">
+<a href="https:"https://twitter.com/69_BLACKISH">
   <img align="left" alt="Nana | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="www.linkedin.com/in/——-">
