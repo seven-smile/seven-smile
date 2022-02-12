@@ -52,9 +52,9 @@ Here are some ideas to get you started:
 
 #### Lets Connect
 <a href="https://twitter.com/69_BLACKISH">
-  <img align="left" alt="Jan Prince | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="69_BLACKISH| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/——-">
+<a href="www.linkedin.com/in/solomon-nnyamile-448594137/">
   <img align="left" alt="Nana's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
