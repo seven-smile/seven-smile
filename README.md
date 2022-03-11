@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 ### I'm a Student, AI enthusiast and a Software Developer.
 
-- 👀 I’m interested in Machine Learning, Software Engineering.
-- 🌱 I’m currently stduying Python.
+- 👀 I’m interested in Web Dev, Networking, Data Science , Software Engineering and other cool stuffs.
+- 🌱 I’m currently stduying Iot and Embedded Systems.
 - ❤️ I love: Django and Flutter.
-- 💞 I’m looking to collaborate on a project involving python and django.
+- 💞 I’m looking to collaborate on a project involving python.
 - 📫 How to reach me: juniornyamile@gmail.com
 
 <br />
