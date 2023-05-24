@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 
 - 👀 I’m interested in Web Dev, Networking, Data Science , Software Engineering and other cool stuffs.
 - 🌱 I’m currently stduying Data Mining and Warehousing.
--
-- 💞 I’m looking to collaborate on a project involving python.
+- 💞 I’m looking to collaborate on intereting and challanging projects alike.
 - 📫 How to reach me: juniornyamile@gmail.com
 
 <br />
