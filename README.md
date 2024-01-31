@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=seven-smile&label=Profile%20views&color=0e75b6&style=flat" alt="seven-smile" /> </p>
 
-### Hi there, I'm Nana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Miles <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### I'm a Student, AI enthusiast and a Software Developer.
 
