@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Miles <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I'm a Student, AI enthusiast and a Software Developer.
+### I'm a Student, AI, Data Science enthusiast and a Software Developer.
 
-- 👀 I’m interested in Web Dev, Networking, Data Science , Software Engineering and other cool stuffs.
-- 🌱 I’m currently stduying Data Mining and Warehousing.
+- 👀 I’m interested in Web Dev, UI/UX, Data Science , Software Engineering and other cool stuffs.
+- 🌱 I’m currently stduying Robotic Process Automation.
 - 💞 I’m looking to collaborate on intereting and challanging projects alike.
 - 📫 How to reach me: juniornyamile@gmail.com
 
