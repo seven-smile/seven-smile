@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=seven-smile&label=Profile%20views&color=0e75b6&style=flat" alt="seven-smile" /> </p>
 
-### Hi there, I'm Miles <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, Miles Here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I'm a Student, AI, Data Science enthusiast and a Software Developer.
-
-- 👀 I’m interested in Web Dev, UI/UX, Data Science , Software Engineering and other cool stuffs.
-- 🌱 I’m currently stduying Robotic Process Automation.
-- 💞 I’m looking to collaborate on intereting and challanging projects alike.
+- 👀 my interests lie within UI/UX Designer, Frontend Developement and Data Science.
+- 🌱 I’m currently a certified practicing Robotic Process Automation Developer - junior Consultant
+- 💞 I’m looking to collaborate on intereting and challanging projects.
 - 📫 How to reach me: juniornyamile@gmail.com
 
 <br />
@@ -47,16 +45,6 @@ Here are some ideas to get you started:
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-
-
-#### Lets Connect
-<a href="https://twitter.com/69_BLACKISH">
-  <img align="left" alt="69_BLACKISH| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/solomon-nnyamile-448594137/">
-  <img align="left" alt="Nana's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 <br />
 <br />
 
