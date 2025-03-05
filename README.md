@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### Hi there, Miles Here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 👀 my interests lie within UI/UX Designer, Frontend Developement and Data Science.
-- 🌱 I’m currently a certified practicing Robotic Process Automation Developer - junior Consultant
+- 👀 my interests lie within Backend Developement and Data Science.
+- 🌱 I’m currently a certified practicing Robotic Process Automation Developer 
 - 💞 I’m looking to collaborate on intereting and challanging projects.
 - 📫 How to reach me: juniornyamile@gmail.com
 
