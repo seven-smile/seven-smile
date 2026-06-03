@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ### Backend Engineer
 
   - **Languages**:  Python
-  - **Frameworks**: Django, Flask
+  - **Frameworks**: Django
   - **Databases**:  PostgreSQL, MySQL, MongoDB
