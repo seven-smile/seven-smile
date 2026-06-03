@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
   - **Languages**:  Python
   - **Frameworks**: Django
-  - **Databases**:  PostgreSQL, MySQL, MongoDB
+  - **Databases**:  PostgreSQL, MySQL
